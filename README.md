@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Jonathan 😄💻
+</h1>
+
+<p align='center'>
+  I'm a Computer Science Engineer from Chile!
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:johnbmf95@gmail.com'>johnbmf95@gmail.com</a>
+</p>
 
 <!--
 **johnbmf/johnbmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
